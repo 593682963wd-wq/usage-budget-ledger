@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "id": "sample",
+      "project": "demo",
+      "model": "sample-model",
+      "input": 100,
+      "output": 20
+    }
+  ],
+  "prices": {
+    "sample-model": {
+      "input": "1",
+      "cached_input": "0.1",
+      "output": "2"
+    }
+  },
+  "token_budget": 1000
+}
